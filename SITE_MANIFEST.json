@@ -1,0 +1,207 @@
+{
+  "domain": "marineparka",
+  "niche": "Haute Marine Parka Jacketing & Bespoke Outerwear",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "tailored_double_breasted_blazer.jpg",
+      "size_kb": 108.46,
+      "md5": "44351c7bf99cab417bbc9dd9e0e7e12c",
+      "description": "Contemporary tailored double-breasted herringbone jacket with horn buttons",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "bespoke_wardrobe_collection_rack.jpg",
+      "size_kb": 83.53,
+      "md5": "c29ed2f34204bd5b275ae1d4cce6a053",
+      "description": "Curated bespoke wardrobe of tailored wool suits, overcoats, and trousers",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "luxury_fashion_editorial_showcase.jpg",
+      "size_kb": 163.21,
+      "md5": "55cf2fceff56418f777386b583f8ef27",
+      "description": "High-fashion editorial showcase featuring structured tailored outerwear",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "handcrafted_horn_suit_buttons.jpg",
+      "size_kb": 170.67,
+      "md5": "c77aa4e8c4844bad8d18470acfa74898",
+      "description": "Handcrafted natural horn and mother-of-pearl buttons for bespoke jackets",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "fashion_portrait_structured_coat.jpg",
+      "size_kb": 72.29,
+      "md5": "d3cb092bd7133bae7bce60f6245fb7ba",
+      "description": "Editorial portrait featuring a structured double-breasted tweed overcoat",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "tailored_double_breasted_blazer_32.jpg",
+      "size_kb": 90.54,
+      "md5": "ce595e4692fdebf71fc0b8760dee5f9d",
+      "description": "Contemporary tailored double-breasted herringbone jacket with horn buttons",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "classic_tailored_suit_portrait_33.jpg",
+      "size_kb": 76.8,
+      "md5": "eaa89bf92cec3539c60f01d62157fb93",
+      "description": "Distinguished gentleman wearing perfectly fitted charcoal wool tailored suit jacket",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "elegant_wool_overcoat_silhouette_34.jpg",
+      "size_kb": 64.47,
+      "md5": "3e4e50868bc0ad3dd23dc5f4b51769f4",
+      "description": "Model wearing an elegant long tailored herringbone wool overcoat in autumn city",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "luxury_fashion_editorial_showcase_36.jpg",
+      "size_kb": 181.28,
+      "md5": "3110dd7aa684b2f75153e67c503b486d",
+      "description": "High-fashion editorial showcase featuring structured tailored outerwear",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "footwear_outerwear_pairing.jpg",
+      "size_kb": 227.5,
+      "md5": "6f460fb49acb25c6cb2668781e8d497d",
+      "description": "Outerwear pairing",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "casual_tailored_jacket.jpg",
+      "size_kb": 131.88,
+      "md5": "ae85a8ba7a45130a67ac83e4f4128793",
+      "description": "Casual tailored blazer",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "wool_couture_tailoring.jpg",
+      "size_kb": 146.61,
+      "md5": "1f0a59c835751a45a3dabb2a0be88ed7",
+      "description": "Hand-stitched wool overcoat couture detailing",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "minimalist_silk_coat_drape.jpg",
+      "size_kb": 87.23,
+      "md5": "d7fd64d849f61507ddc8d477c1f863c9",
+      "description": "Minimalist silk coat drape in natural lighting",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "classic_leather_motorcycle_jacket.jpg",
+      "size_kb": 158.37,
+      "md5": "4cbbd43de0fca21de7f629cdbc2e5357",
+      "description": "Heavyweight vegetable-tanned horsehide leather jacket with brass asymmetrical zipper",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "curated_outerwear_wardrobe_rack.jpg",
+      "size_kb": 74.96,
+      "md5": "81cc535ee67fa4c402656318c6c9dc5b",
+      "description": "Curated atelier outerwear rack displaying military parkas and waxed cotton jackets",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "technical_alpine_fishtail_parka.jpg",
+      "size_kb": 135.39,
+      "md5": "27c1a347846603697b0c3f7009de70f8",
+      "description": "Weatherproof Ventile cotton fishtail parka worn against rugged alpine mountain peaks",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "hooded_snorkel_winter_parka.jpg",
+      "size_kb": 209.43,
+      "md5": "d88e25580db4b9e7b30633e861ffbcc8",
+      "description": "Heavyweight cold-weather snorkel parka with fleece-lined chin guard",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "biker_leather_hardware_macro.jpg",
+      "size_kb": 123.68,
+      "md5": "578d6f67e0c6e63e0838a7dd185fcc86",
+      "description": "Macro perspective of Talon brass zip pullers and snap buttons on leather jacket",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "rugged_workwear_chore_coat.jpg",
+      "size_kb": 73.81,
+      "md5": "156cf283f4e5330f94bbc9c878d2eeb7",
+      "description": "Heavy duck canvas chore jacket with copper rivet pocket reinforcements",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "unstructured_casual_outerwear.jpg",
+      "size_kb": 109.54,
+      "md5": "1699e83f9afc09cb077754f59fbf0c94",
+      "description": "Lightweight unstructured linen-cotton travel jacket in natural tan",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://marineparka.com/sitemap.xml",
+    "robots": "https://marineparka.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
